@@ -32,7 +32,7 @@ class LinkedList:
 # Singly Linked List with insertion and print methods
 
 LL= LinkedList()
-LL.insert(300)
+LL.insert(200)
 LL.insert(400)
 LL.insert(500)
 LL.insert(600)
